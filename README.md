@@ -53,6 +53,6 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/elsayed_el-banna?theme=dark&font=Source%20Code%20Pro&ext=heatmap)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elsayed-elpna&show_icons=true&locale=en&layout=compact" alt="elsayed-elpna" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elsayed-elpna&theme=dark&show_icons=true&locale=en&layout=compact" alt="elsayed-elpna" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elsayed-elpna&show_icons=true&locale=en" alt="elsayed-elpna" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elsayed-elpna&theme=dark&show_icons=true&locale=en" alt="elsayed-elpna" /></p>
