@@ -56,5 +56,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elsayed-elpna&show_icons=true&locale=en&layout=compact" alt="elsayed-elpna" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elsayed-elpna&show_icons=true&locale=en" alt="elsayed-elpna" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elsayed_el-banna&" alt="elsayed-elpna" /></p>
